@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495779076 source:c:\users\rodolfo\desktop\examplewithheaderfiles\converter.cpp
+
+1446671344 source:c:\users\rodolfo\desktop\examplewithheaderfiles\main.cpp
+	<iostream>
+
